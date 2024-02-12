@@ -1,0 +1,9 @@
+{
+  "name": "taskmanagement",
+  "version": "1.0.0",
+  "scripts": {
+    "runServer": "npm run --prefix /backend/package.json server",
+    "buildFrontEnd": "npm run --prefix /frontend/package.json build"
+  },
+  "author": "khalid imran"
+}
