@@ -1,0 +1,7 @@
+@import "./css/util.scss";
+@import 'reactjs-popup/dist/index.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
