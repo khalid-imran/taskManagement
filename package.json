@@ -2,8 +2,8 @@
   "name": "taskmanagement",
   "version": "1.0.0",
   "scripts": {
-    "runServer": "npm run --prefix backend server",
-    "buildFrontEnd": "npm run --prefix frontend build"
+    "server": "npm run --prefix backend server",
+    "build": "npm run --prefix frontend build"
   },
   "author": "khalid imran"
 }
