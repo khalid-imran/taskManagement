@@ -5,7 +5,7 @@ const dev = {
         port: process.env.PORT || 4000,
     },
     db: {
-        url: process.env.DB_URI || "mongodb://127.0.0.1:27017/",
+        url: process.env.DB_URI || "mongodb+srv://ekhalid090:7vIw5v6jUAl0NTZb@taskmanagement.rwlvbmt.mongodb.net/?retryWrites=true&w=majority",
     },
 };
 
