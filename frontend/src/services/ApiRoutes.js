@@ -1,4 +1,4 @@
-const baseUrl = 'https://simpetastmanagement.onrender.com'
+const baseUrl = 'http://localhost:4000'
 const ApiRoutes = {
     // base
     base: baseUrl + '/',
